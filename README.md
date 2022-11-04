@@ -6,7 +6,7 @@
 
 ### Problem : 
 
-Heart Attack is a chronic health condition that affects how your heart pumps blood throughout your body. It is not a disease but a phenomena, where there are sudden cardiac arrests. Having healthy, low-cholesterol food, and being active can really help in reducing the chances of cardiac arrest. 
+Breast Cancer is a chronic health condition that affects how your heart pumps blood throughout your body. It is not a disease but a phenomena, where there are sudden cardiac arrests. Having healthy, low-cholesterol food, and being active can really help in reducing the chances of cardiac arrest. 
 
 ### Solution:
 
