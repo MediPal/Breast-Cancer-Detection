@@ -40,7 +40,7 @@ def app(df, X, y):
     if st.button("Predict"):
         # Get prediction and model score
         prediction, score = predict(X, y, features)
-        score = score + 0.15
+        score = score 
         st.info("Predicted Sucessfully...")
 
         # Print the output according to the prediction
