@@ -1,4 +1,4 @@
-# Cardiac Arrest Predictor
+# Breast Cancer Predictor
 
 ![home](https://user-images.githubusercontent.com/64016811/200050898-b7e0a3f7-acd9-4075-8e3b-a0f1a8a47af3.png)
 
